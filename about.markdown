@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm just a boy, standing in front of the AWS console, asking him why one microservice can't reach the other even though all the security groups are clearly configured correctly.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This is a place for me to share what I have learned, my thoughts and my doubts about software and cloud architecture (so many doubts...).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+If I could resume my world view in a phrase it would be "Developing in the cloud should be easier."
 
-
-[jekyll-organization]: https://github.com/jekyll
