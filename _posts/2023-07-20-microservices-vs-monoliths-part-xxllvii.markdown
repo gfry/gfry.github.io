@@ -4,7 +4,7 @@ title: "Microservices Vs. Monoliths, Part XXLVII"
 date: 2023-07-20 15:10:33 +0800
 categories: basics opinion
 ---
-So,zI got sent this article several times, by several people:
+So, I got sent this article several times, by several people:
 
 [Scaling up the Prime Video audio/video monitoring service and reducing costs by 90%
 The **move from a distributed microservices architecture to a monolith application** helped achieve higher scale, resilience, and reduce costs.](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90).
