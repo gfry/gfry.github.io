@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The Reluctant Architect
-email: gfry@reluctantarchitect.io
+title: The Reluctant Manager
+email: gfry@gry.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Writing about software and cloud architecture. Always trying to find ways to make development easier and faster. Just trying to make sense of it all, like you.
+  Writing about software development and cloud architecture. Always trying to find ways to make development easier and faster. Just trying to make sense of it all, like you.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ha
